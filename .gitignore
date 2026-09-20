@@ -1,0 +1,27 @@
+# ===== Python =====
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+
+# ===== 虚拟环境 =====
+.venv/
+venv/
+env/
+
+# ===== IDE / 编辑器 =====
+.idea/
+.vscode/
+
+# ===== PyInstaller 打包产物 =====
+build/
+dist/
+
+# ===== 运行时生成 =====
+# 用户保存的个人配置(热键、参数),不入库
+config.json
+
+# ===== 系统文件 =====
+Thumbs.db
+Desktop.ini
+.DS_Store
